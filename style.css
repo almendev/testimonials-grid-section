@@ -29,7 +29,7 @@ body {
 main {
   display: grid;
   min-height: 100vh;
-  padding-inline: 1.5em;
+  padding: 4.4375em 1.5em;
   place-items: center;
 }
 
